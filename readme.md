@@ -8,7 +8,7 @@ Dự án sử dụng **TouchGFX** trên bo mạch **STM32F429I-DISCO** với cá
 - Ghi & phát lại thao tác chuột (macro)
 - Điều chỉnh độ nhạy chuột và cuộn qua giao diện TouchGFX  
 
-**Demo:** [bit.ly/demo-he-nhung](bit.ly/demo-he-nhung)
+**Demo:** [bit.ly/demo-he-nhung](https://www.bit.ly/demo-he-nhung)
 ---
 
 ## 🧰 Công cụ & Phiên bản
